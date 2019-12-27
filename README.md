@@ -4,7 +4,9 @@ AWS &amp; Terraform Mini Project Challenge for DTCC
 To deploy, clone this repo an perform these commands, in order:
 
 terraform init
+
 terraform plan
+
 terraform apply
 
 You will see an IP address output. This lets you know the instance has been provisioned, and is now initializing.
